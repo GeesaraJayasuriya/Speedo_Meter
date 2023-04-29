@@ -111,3 +111,5 @@ code using AVR assembler language where appropriate.
 
 
 [Coursework Specification(1).pdf](https://github.com/GeesaraJayasuriya/Speedo_Meter/files/11358688/Coursework.Specification.1.pdf)
+
+![new_cap](https://user-images.githubusercontent.com/72536827/235292631-a5b35169-aac6-49f1-93ef-2a373582b7ba.PNG)
