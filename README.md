@@ -108,3 +108,6 @@ expansion with additional I/O.
 9.3.1 C or C++ should be used. Some functions may be written in machine 
 code using AVR assembler language where appropriate.
 
+
+
+[Coursework Specification(1).pdf](https://github.com/GeesaraJayasuriya/Speedo_Meter/files/11358688/Coursework.Specification.1.pdf)
