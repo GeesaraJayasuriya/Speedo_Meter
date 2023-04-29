@@ -1,7 +1,6 @@
 # Speedo_Meter
 The coursework for this module is a single project, ‘Firmware design for a DC motor speed  controller’. This is an individual project, with a short demonstration of the final firmware you  will produce
-<<<<<<< HEAD
-=======
+
 
 
 1.4 Features and specification
@@ -108,4 +107,4 @@ expansion with additional I/O.
 9.3 Languages:
 9.3.1 C or C++ should be used. Some functions may be written in machine 
 code using AVR assembler language where appropriate.
->>>>>>> 30188d82974071a20ae904f5d3c60ac1cef15886
+
